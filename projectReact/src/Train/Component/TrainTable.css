@@ -1,0 +1,18 @@
+.itiTable{
+    margin-top: 12px;
+}
+.itiTable table{
+    color: #686868;
+}
+.itiTable tr{
+    /* background-color: red; */
+    text-align: center;
+    font-family: 'fantasy';
+}
+.itiTable tbody tr{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.itiTable .add{
+    margin: 8px 12px -4px 13px;
+}

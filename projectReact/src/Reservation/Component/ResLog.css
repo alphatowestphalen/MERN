@@ -1,0 +1,22 @@
+.res{
+    margin: auto;
+    box-shadow: -1px 2px 9px 0px;
+    border-radius: 6px;
+    padding: 24px;
+}
+.res form input{
+    color: rgb(87, 90, 93);
+    font-weight: bold;
+}
+.res form select{
+    color: rgb(87, 90, 93);
+    font-weight: bold;
+}
+.bouton{
+    display: flex;
+    justify-content: center;
+    margin-top: 23px;
+}
+.bouton input{
+    margin-left: 30px;
+}

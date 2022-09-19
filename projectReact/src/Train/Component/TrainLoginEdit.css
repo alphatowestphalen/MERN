@@ -1,0 +1,22 @@
+.train{
+    margin: auto;
+    box-shadow: -1px 2px 9px 0px;
+    border-radius: 6px;
+    padding: 24px;
+}
+.bouton{
+    display: flex;
+    justify-content: center;
+    margin-top: 23px;
+}
+.bouton button{
+    margin-left: 30px;
+}
+.train form button{
+    color: rgb(87, 90, 93);
+    font-weight: bold;
+}
+.train form select{
+    color: rgb(87, 90, 93);
+    font-weight: bold;
+}

@@ -1,0 +1,25 @@
+.itiTable div {
+    display: flex;
+    justify-content: space-between;
+}
+.itiTable div .tirage{
+    width: 426px;
+    margin: 8px 12px -4px 13px;
+}
+.itiTable div .tirage input{
+    width: 426px;
+    margin: 0 12px 0 13px;
+}
+.itiTable {
+    padding-bottom: 12px;
+    margin-top: 12px;
+    TEXT-ALIGN: end;
+    width: 999px;
+    margin: auto;
+    box-shadow: 0px 0px 6px;
+    border-radius: 4px;
+    background: #fefcf6;
+}
+.itiTable input{
+    width: 146px;
+}
